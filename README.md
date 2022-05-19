@@ -19,13 +19,15 @@ export class User extends Pinia {
     avatar: '',
     token: '',
   }
+
   get token() {
     return this.userInfo.token
   }
-    async login(form) {
-        // ...
-        // this.userInfo = ...
-    }
+
+  async login(form) {
+    // let data = await axios.get...
+    // this.userInfo = data
+  }
 }
 
 // usage
