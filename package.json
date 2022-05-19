@@ -1,6 +1,6 @@
 {
   "name": "pinia-class-component",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "ECMAScript / TypeScript decorator for class-style Pinia store.",
   "main": "lib/pinia-class-component.common.js",
   "module": "lib/pinia-class-component.esm.js",
